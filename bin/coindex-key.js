@@ -17,4 +17,4 @@ program
 
 program.parse(process.argv);
 
-funkytown
+funkytown now
