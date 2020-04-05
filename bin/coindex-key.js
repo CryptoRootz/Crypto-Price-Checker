@@ -16,3 +16,5 @@ program
 .action(() => console.log('Hello from remove'));
 
 program.parse(process.argv);
+
+funkytown
